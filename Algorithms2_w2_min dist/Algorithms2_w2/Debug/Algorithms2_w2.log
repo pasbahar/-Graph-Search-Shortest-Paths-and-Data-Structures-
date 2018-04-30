@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Algorithms2_w2.cpp
+c:\users\baharg\desktop\bahar\my folder\programming\algorithms2_w2\algorithms2_w2\algorithms2_w2.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\baharg\desktop\bahar\my folder\programming\algorithms2_w2\algorithms2_w2\algorithms2_w2.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\baharg\desktop\bahar\my folder\programming\algorithms2_w2\algorithms2_w2\algorithms2_w2.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  Algorithms2_w2.vcxproj -> C:\Users\baharg\Desktop\Bahar\My folder\Programming\Algorithms2_w2\Debug\Algorithms2_w2.exe
